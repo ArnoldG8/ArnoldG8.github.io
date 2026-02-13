@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Deep Dive into Netflix Data Wrangling"
 author: Arnold Aijuka
 date: 2026-02-13
@@ -38,3 +37,6 @@ One of the first steps was identifying null values. Instead of simply dropping r
 The `date_added` column is crucial for understanding Netflix's content strategy over time. I converted this from an object (string) type to a proper `datetime` format. This allowed me to extract:
 * **Year Added**
 * **Month Added**
+
+---
+*Stay tuned for my next post*
