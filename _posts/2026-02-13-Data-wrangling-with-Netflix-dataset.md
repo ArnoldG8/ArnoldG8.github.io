@@ -4,6 +4,9 @@ author: Arnold Aijuka
 date: 2026-02-13
 categories: [Data Science, Python, Data Wrangling]
 tags: [pandas, kaggle, netflix, data-cleaning, numpy]
+image:
+  path: /assets/netflixDataWrangling.png
+  alt: Image of Netflix
 ---
 
 # Why the Data Wrangling?
