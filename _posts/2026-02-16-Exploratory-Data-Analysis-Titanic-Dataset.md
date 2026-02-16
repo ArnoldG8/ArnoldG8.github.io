@@ -4,9 +4,6 @@ author: Arnold Aijuka
 date: 2026-02-16
 categories: [Data Science, Python, EDA]
 tags: [seaborn, titanic, missingno, visualization, statistics]
-image:
-  path: /assets/titanicEDA.png
-  alt: Image of Titanic Data Visualization
 ---
 
 # Why Exploratory Data Analysis?
