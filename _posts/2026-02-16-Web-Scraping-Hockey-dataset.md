@@ -4,9 +4,6 @@ author: Arnold Aijuka
 date: 2026-01-20
 categories: [Data Science, Python, Web Scraping]
 tags: [beautifulsoup, requests, pandas, data-collection]
-image:
-  path: /assets/hockeyWebScraping.png
-  alt: Image of Hockey Data Extraction
 ---
 
 # Why Web Scraping?
