@@ -25,6 +25,16 @@ I am a passionate **Data and Software Developer** enthusiast with a focus on bui
 | **Visualization** | Power BI, Seaborn, Matplotlib, Plotly, Tablue |
 | **Web Dev** | HTML/CSS, Front-end Animations, Jekyll, Django, React/React Native |
 
+###  Education
+
+* **Master of Science in Information Systems Technology**
+  * *Specialization: Software Engineering*
+  * Status: Currently Pursuing
+
+* **Bachelor of Science in Applied Computer Technology**
+  * *Specialization: Software Engineering*
+  * Status: Completed (2019 - 2023)
+
 ###  Current Focus
 
 I am currently exploring the intersection of **Natural Language Processing (NLP)** and **Cybersecurity**, working on thesis-level research to detect sophisticated social engineering attacks. My goal is to develop robust, data-driven applications that not only analyze information but also actively protect users in the digital space.
