@@ -1,7 +1,7 @@
 ---
 title: "Scraping the Ice: Extracting Hockey Data with Python"
 author: Arnold Aijuka
-date: 2026-01-20
+date: 2026-01-13
 categories: [Data Science, Python, Web Scraping]
 tags: [beautifulsoup, requests, pandas, data-collection]
 ---
