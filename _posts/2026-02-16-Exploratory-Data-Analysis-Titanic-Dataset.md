@@ -10,7 +10,7 @@ tags: [seaborn, titanic, missingno, visualization, statistics]
 
 Before we can build predictive models, we must understand the story the data is trying to tell us. Exploratory Data Analysis (EDA) is that crucial first step where we uncover patterns, spot anomalies, and test hypotheses.
 
-In my latest project, **[Arnold Aijuka Exploratory Data Analysis Project](https://www.kaggle.com/code/arnoldaijuka)**, I performed a comprehensive EDA on the famous Titanic dataset to understand the factors that influenced survival rates.
+In my latest project, **[Arnold Aijuka Exploratory Data Analysis Project](https://www.kaggle.com/code/arnoldaijuka/arnold-aijuka-exploratory-data-analysis-project)**, I performed a comprehensive EDA on the famous Titanic dataset to understand the factors that influenced survival rates.
 
 ## 1. The Challenge: Missing Data and Outliers
 
