@@ -10,7 +10,7 @@ tags: [beautifulsoup, requests, pandas, data-collection]
 
 In the data world, not everything comes in a neat CSV file. Sometimes, the data you need is locked away on a website, visible to the eye but inaccessible to your analysis tools. That's where web scraping comes in.
 
-In my recent assignment, **[Arnold_Aijuka_Web_Scrapping_CS-DA03-26044](https://colab.research.google.com/)**, I tackled the task of extracting structured hockey team data from a raw webpage and converting it into a usable dataset[cite: 12, 14, 23].
+In my recent assignment, **[Arnold_Aijuka_Web_Scrapping_CS-DA03-26044](https://colab.research.google.com/drive/1qLTIp46PDdOl8cC6WZ1XAFmsq_1eqfKj?usp=sharing)**, I tackled the task of extracting structured hockey team data from a raw webpage and converting it into a usable dataset[cite: 12, 14, 23].
 
 ## 1. The Challenge: Unstructured HTML
 
