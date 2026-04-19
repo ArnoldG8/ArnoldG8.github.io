@@ -5,7 +5,7 @@ date: 2026-04-19
 categories: [Machine Learning, MLOps, Web Deployment]
 tags: [python, scikit-learn, streamlit, knn, gridsearchcv]
 image:
-  path: /assets/californiaHousingML.png
+  path: /assets/californiaHouse.jpg
   alt: Image of California Housing Predictor
 ---
 
