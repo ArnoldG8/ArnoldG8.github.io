@@ -5,7 +5,7 @@ date: 2026-04-09
 categories: [Artificial Intelligence, Machine Learning, Web Deployment]
 tags: [generative-ai, streamlit, python, llm, deployment]
 image:
-  path: /assets/genAiDeployment.png
+  path: /assets/genAiDeployment.jpg
   alt: Image of Generative AI App Interface
 ---
 
