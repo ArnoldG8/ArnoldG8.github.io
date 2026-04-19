@@ -13,7 +13,7 @@ image:
 
 In the world of artificial intelligence, building or tuning a powerful model is only half the battle. The real magic happens when you make that model accessible, interactive, and usable. An LLM trapped in a Jupyter notebook is simply potential waiting to be unlocked. 
 
-In my recent project, **[Generative AI Explorer](https://genai2604.streamlit.app/)**, I took on the challenge of bridging the gap between raw natural language processing capabilities and an intuitive user interface, demonstrating how to transform API calls into a seamless user experience.
+In my recent project, **[LinkedIn Post Generator](https://genai2604.streamlit.app/)**, I took on the challenge of bridging the gap between raw natural language processing capabilities and an intuitive user interface, demonstrating how to transform API calls into a seamless user experience.
 
 ## 1. The Challenge: Interactive AI
 
