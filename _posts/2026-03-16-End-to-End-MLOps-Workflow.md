@@ -11,7 +11,7 @@ image:
 
 # Why End-to-End MLOps?
 
-Building a machine learning model is a great first step, but the true value is realized when that model is packaged, optimized, and deployed for end-users. In my project, **California Housing Price Predictor**, I focused on applying key concepts of pipeline construction, hyperparameter tuning, and model deployment.
+Building a machine learning model is a great first step, but the true value is realized when that model is packaged, optimized, and deployed for end-users. In my project, **[California Housing Price Predictor](https://master-26044.streamlit.app/)**, I focused on applying key concepts of pipeline construction, hyperparameter tuning, and model deployment.
 
 ## 1. The Challenge: Predicting Housing Values
 
