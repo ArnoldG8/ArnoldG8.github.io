@@ -5,7 +5,7 @@ date: 2026-04-19
 categories: [Business Intelligence, Data Analytics, Data Visualization]
 tags: [power-bi, dax, data-modeling, dashboard, hospitality]
 image:
-  path: /assets/hotelPowerBI.jpg
+  path: /assets/hotelPowerBI_Small.jpg
   alt: Image of Hotel Revenue Dashboard
 ---
 
